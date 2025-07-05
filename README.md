@@ -2,15 +2,9 @@
 
 This is a single-page, fully responsive promotional website for **Mountain Glacier Pharmaceuticals Pvt. Ltd.** The site is designed to provide a comprehensive overview of the company, its vision, products, operational capabilities, and leadership team. It serves as a modern digital brochure for potential partners, investors, and customers.
 
-### 🌐 Live Demo
 
-**(http://themgpharma.com/)**
+**http://themgpharma.com/**
 
-*(Once you deploy the website to a service like GitHub Pages, Netlify, or Vercel, replace the placeholder above with the live URL.)*
-
-
-
-*(**Instruction**: Replace the image link above with a screenshot of your project. You can upload an image to your GitHub repo or use an image hosting service like Imgur.)*
 
 ## ✨ Features
 
